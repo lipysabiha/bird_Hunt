@@ -21,3 +21,4 @@ Please find some screenshots of what you'll be creating. Feel free to get creati
 
 ![Screen-shot](./images/duck-hunt-part-1.png) - Part 1
 ![Screen-shot](./images/duck-hunt-part-2.png) - Part 2
+![Screen-shot](./images/duck-hunt-part-2.png) - Part 2
