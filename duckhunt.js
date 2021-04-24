@@ -107,10 +107,9 @@ window.onload = function () {
     return { left: randomWidth, top: randomHeight };
   }
 
-  // 13. Create a new function named checkForWinner() that reads the DOM
-  //     to see if there are any ducks left. (How can we check the DOM for more than one element?, and how can we see how many elements we get back) If not, alert "YOU WIN!"
+  //  for more than one element?, and how can we see how many elements we get back) If not, alert "YOU WIN!"
 
-  // FIN. You win 1 trillion tokens.  Play the day away!
+ 
   function checkForWinner() {
     var anyDucksLeft = document.getElementsByClassName("duck").length;
     if (anyDucksLeft == 0) {
